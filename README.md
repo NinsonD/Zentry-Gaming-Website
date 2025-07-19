@@ -4,13 +4,13 @@ An interactive, modern, and visually rich website for Zentry Gaming, built with 
 
 ## Features
 
-- **Animated Navigation Bar** with floating and scroll effects
-- **Custom Audio Player** with animated indicator
-- **Hero Section** with animated titles and video backgrounds
-- **About, Gallery, and Contact Sections** with unique layouts and custom fonts
-- **Responsive Design** for all devices
-- **Custom CSS Animations** and advanced Tailwind usage
-- **Optimized Assets** (images, videos, fonts)
+- Animated Navigation Bar with floating and scroll effects
+- Custom Audio Player with animated indicator
+- Hero Section with animated titles and video backgrounds
+- About, Gallery, and Contact Sections with unique layouts and custom fonts
+- Responsive Design for all devices
+- Custom CSS Animations and advanced Tailwind usage
+- Optimized Assets (images, videos, fonts)
 
 ## Tech Stack
 
